@@ -1,2 +1,2 @@
-# SOLID-Princiles-with-Golang
+# SOLID-Principles-with-Golang
 Implemented SOLID Principles using Golang
